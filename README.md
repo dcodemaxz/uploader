@@ -113,7 +113,7 @@ The uploader will return a structured error if something goes wrong:
 
 ## 🖋️ Notes
 
-- Tested on **Node.js v18+**
+- Tested on **Node.js v20+**
 - Designed for **Baileys-based bots**
 - Clean, modular, and easy to integrate
 
