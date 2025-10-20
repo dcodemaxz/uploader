@@ -79,7 +79,6 @@ When creating your **GitHub Personal Access Token (Classic)**, enable only:
  ┣ 📂 video
  ┣ 📂 audio
  ┣ 📂 sticker
- ┣ 📂 file
  ┣ 📜 gitUploader.js
  ┗ 📜 README.md
 ```
